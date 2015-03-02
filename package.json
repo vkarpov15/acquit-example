@@ -1,0 +1,28 @@
+{
+  "name": "acquit-example",
+  "version": "1.0.0",
+  "description": "Example showing how to generate docs for REST APIs with acquit",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/vkarpov15/acquit-example.git"
+  },
+  "author": "Valeri Karpov <val@karpov.io>",
+  "license": "Apache 2.0",
+  "bugs": {
+    "url": "https://github.com/vkarpov15/acquit-example/issues"
+  },
+  "homepage": "https://github.com/vkarpov15/acquit-example",
+  "dependencies": {
+    "express": "4.12.1",
+    "http-status": "^0.1.8"
+  },
+  "devDependencies": {
+    "acquit": "0.0.3",
+    "mocha": "2.1.0",
+    "superagent": "0.21.0"
+  }
+}
