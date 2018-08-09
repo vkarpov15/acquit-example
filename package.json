@@ -23,6 +23,6 @@
   "devDependencies": {
     "acquit": "0.0.3",
     "mocha": "2.1.0",
-    "superagent": "0.21.0"
+    "superagent": "~3.8"
   }
 }
